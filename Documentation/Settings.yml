@@ -1,0 +1,33 @@
+﻿# Settings.yml
+# -*- coding: utf-8 -*- with BOM. Umlaut-check: ÄÖÜäöüß
+
+---
+conf.py:
+  ##====================================================================
+  ## Define configuration data that belongs to your individual
+  ## documentation project here in this ./Settings.yml file.
+  ## Use "parameter: value" pairs as you would do within the conf.py
+  ## file. Values given here in ./Settings.yml under the key 'conf.py'
+  ## will overlay or supplement those given in conf.py. You therefore 
+  ## don't have to have access to conf.py which you don't have on the
+  ## server.
+  ##
+  ## Watch the log folder ./_not_versioned/ to see what settings have
+  ## been used when the project has last been rendered. This may give
+  ## you an idea of what's possible and what's needed and how to write 
+  ## it.
+  ##
+  ## Have fun!
+  ##--------------------------------------------------------------------
+
+  # include content of ".. todo::" directives in output?
+  todo_include_todos: True
+
+  # Sphinx likes to see meaningful values for copyright, project,
+  # version and release in several places
+  copyright: 2013 to now
+  project: TYPO3 documentation starter
+  version: 0.0
+  release: 0.0.0
+
+...
