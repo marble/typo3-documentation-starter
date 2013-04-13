@@ -45,8 +45,9 @@ Some help with ReST and Sphinx
   - Introduction: `A ReStructuredText Primer <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/docutils-docs/user/rst/quickstart.html>`_
   - Reference: `ReStructuredText Markup Specification <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/docutils-docs/peps/ref/rst/restructuredtext.html>`_
   - Demo: `How to write what in ReST source <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/_sources/docutils-docs/user/rst/demo.txt>`_
-  - `Directives that come with Docutils <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/docutils-docs/peps/ref/rst/directives.html>`_
-  - `Directives that come with Sphinx <http://sphinx-doc.org/rest.html#directives>`_
+  - `Directives <http://sphinx-doc.org/rest.html#directives>`_  provided by Sphinx 
+  - `Directives <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/docutils-docs/peps/ref/rst/directives.html>`_ that come with the Docutils 
+    but may be changed by Sphinx
   
 .. attention::
 
