@@ -116,7 +116,6 @@ Some help with ReST and Sphinx
   to find out about basic ReST idioms, lists, tables, ...
   
 * Look at the `Sphinx documentation <http://sphinx-doc.org/contents.html>`_.
-  
   Sphinx is a `project <http://www.pocoo.org/projects/sphinx/#sphinx>`_
   by `Georg Brandl <http://www.pocoo.org/team/#georg-brandl>`_
   at `Pocoo <http://www.pocoo.org/>`_
@@ -125,7 +124,7 @@ Some help with ReST and Sphinx
   <http://docutils.sourceforge.net/rst.html>`_
   
 * A nicer rendering of the Docutils documentation is currently here:
-  http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/
+  `Collected Docutils Docs at docs.typo3.org <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/>`_
   
   Start with:
   
@@ -143,11 +142,12 @@ Some help with ReST and Sphinx
 
 .. Next pages:
    
-   .. toctree::
-      :maxdepth: 5
-      :glob:
-      :titlesonly:
-   
-      *
+.. toctree::
+   :maxdepth: 5
+   :glob:
+   :titlesonly:
+   :hidden:
+
+   *
 
 :ref:`Sitemap <sitemap>`   
