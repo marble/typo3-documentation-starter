@@ -103,7 +103,7 @@ You're done!
   have been any warnings or errors. For example: See the
   `_make folder of this manual`__
 
-__ http://docs.typo3.org/typo3cms/drafts/DocumentationStarter/_make
+__ http://docs.typo3.org/typo3cms/drafts/github/marble/DocumentationStarter/_make/
 
 Enjoy!
 
