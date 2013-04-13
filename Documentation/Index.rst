@@ -100,6 +100,7 @@ Next pages:
    Chapter2/Index
    Chapter3/Index
    Quickstart/Index
+   DiveIntoReST/Index
    FinalPages/*
    
 :ref:`Sitemap <sitemap>`
