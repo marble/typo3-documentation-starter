@@ -16,7 +16,6 @@ TYPO3 Documentation Starter  <- Change this to your title!
 :Copyright:       2013 ...
 :Description:     This is a recommended template to start any ReST based
                   documentation for TYPO3 (ReST = ReStructuredText)
-:Email:           ...
 :License:         `CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>`_
 :Rendered:        |today|
 

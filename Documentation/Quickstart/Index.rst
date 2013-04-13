@@ -75,7 +75,7 @@ See the :ref:`details <details-step-4>`.
 Step 5
 ------
 
-Important: Add hook processing to your Github repository. 
+**Important:** Add hook processing to your Github repository. 
 See the :ref:`details <details-step-5>` on how to do it.
 
 

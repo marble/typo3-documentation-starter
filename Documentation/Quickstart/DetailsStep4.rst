@@ -102,7 +102,7 @@ Just a moment, please!
 
 I'll react as soon as possible and respond with an email telling you
 that the server now knows about your documentation project and is
-willing to render it at - in this example -: `http://docs.typo3.org/typo3cms/drafts/github/marble/DocumentationStarter`_.
+willing to render it at - in this example -: http://docs.typo3.org/typo3cms/drafts/github/marble/DocumentationStarter.
 
 You can always check if the setup has already been done by inspecting 
 the file `list-of-github-manuals.csv.txt 
