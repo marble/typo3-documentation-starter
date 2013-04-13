@@ -64,7 +64,21 @@ Enter this value::
 as notification URL:
 
 .. figure:: images/step-5/004-enter-the-url.png
-   :class: screenshot-detail
-   :align: left
+   :alt:    Enter the notification URL
+   :class:  screenshot-detail
+   :align:  left
+
+   
+(5) Test the hook
+-----------------
+
+Whenever you want to you can test the hook. A new rendering
+should appear soon.
+
+.. figure:: images/step-5/005-test-the-hook.png
+   :alt:    Test the hook
+   :class:  screenshot-detail
+   :align:  left
+
 
 Proceed with :ref:`quickstart-step-6`.
