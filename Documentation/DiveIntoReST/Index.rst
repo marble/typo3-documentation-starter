@@ -37,8 +37,10 @@ Some help with ReST and Sphinx
 * The basic ReST features are provided by the `Docutils 
   <http://docutils.sourceforge.net/rst.html>`_
   
-* A nicer rendering of the Docutils documentation is currently here:
-  `Collected Docutils Docs at docs.typo3.org <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/>`_
+* As a service we provide a nicer rendering of the Docutils 
+  documentation 
+  `here <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/>`_
+  on our server.
   
   Start with:
   
@@ -55,10 +57,10 @@ Some help with ReST and Sphinx
     in the default theme
     
   - Sphinx provides these 
-    `Directives <http://sphinx-doc.org/rest.html#directives>`_
+    `directives <http://sphinx-doc.org/rest.html#directives>`__
     
   - These are 
-    `Directives <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/docutils-docs/peps/ref/rst/directives.html>`_
+    `directives <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/docutils-docs/peps/ref/rst/directives.html>`__
     that come with the Docutils but partly are changed by Sphinx
   
 .. attention::
