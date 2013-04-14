@@ -14,9 +14,11 @@ user       title
 ========== =====================
 froemken   `Extbase Guide <http://docs.typo3.org/typo3cms/drafts/github/froemken/ExtbaseGuide/>`_
 froemken   `Fluid Guide <http://docs.typo3.org/typo3cms/drafts/github/froemken/FluidGuide/>`_
-marble     `A TYPO3 Documentation Starter <http://docs.typo3.org/typo3cms/drafts/github/marble/DocumentationStarter/>`_
 marble     `Documentation Contribution Guide <http://docs.typo3.org/typo3cms/drafts/github/marble/DocumentationContributionGuide/>`_
 marble     `Incoming Notes <http://docs.typo3.org/typo3cms/drafts/github/marble/IncomingNotes/>`_
 marble     `Manage Github Repositories <http://docs.typo3.org/typo3cms/drafts/github/marble/ManageGithubRepositories/>`_              
 marble     `The resources of docs-typo3-org <http://docs.typo3.org/typo3cms/drafts/github/marble/TheResourcesOfDocsTypo3Org/>`_
+spacedani  `TYPO3 Documentation <http://docs.typo3.org/typo3cms/drafts/github/spacedani/Typo3Documentation/>`_
+spacedani  `Workspaces <http://docs.typo3.org/typo3cms/drafts/github/spacedani/Workspaces/>`_
+t3elmar    `ESP - Calling Stored Procedures From TypoScript <http://docs.typo3.org/typo3cms/drafts/github/t3elmar/esp-Calling-Stored-Procedures-from-TypoScript/>`_
 ========== =====================
