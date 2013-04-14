@@ -42,12 +42,24 @@ Some help with ReST and Sphinx
   
   Start with:
   
-  - Introduction: `A ReStructuredText Primer <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/docutils-docs/user/rst/quickstart.html>`_
-  - Reference: `ReStructuredText Markup Specification <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/docutils-docs/peps/ref/rst/restructuredtext.html>`_
-  - Demo: `How to write what in ReST source <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/_sources/docutils-docs/user/rst/demo.txt>`_
-  - `Directives <http://sphinx-doc.org/rest.html#directives>`_  provided by Sphinx 
-  - `Directives <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/docutils-docs/peps/ref/rst/directives.html>`_ that come with the Docutils 
-    but may be changed by Sphinx
+  - Introduction: A ReStructuredText 
+    `Primer <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/docutils-docs/user/rst/quickstart.html>`_
+
+  - ReStructuredText Markup
+    `Reference <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/docutils-docs/peps/ref/rst/restructuredtext.html>`_
+
+  - Learn from these 
+    `markup examples <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/_sources/docutils-docs/user/rst/demo.txt>`_
+    and watch
+    `how they look like <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/docutils-docs/user/rst/demo.html>`_
+    in the default theme
+    
+  - Sphinx provides these 
+    `Directives <http://sphinx-doc.org/rest.html#directives>`_
+    
+  - These are 
+    `Directives <http://docs.typo3.org/~mbless/DOCROOT_HTDOCS/World/Docutils/html/docutils-docs/peps/ref/rst/directives.html>`_
+    that come with the Docutils but partly are changed by Sphinx
   
 .. attention::
 
