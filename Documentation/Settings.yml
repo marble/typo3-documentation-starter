@@ -21,7 +21,7 @@ conf.py:
   release: 0.0.0
   latex_documents:
   - - Index
-    - manual.tex
+    - DocumentationStarter.tex
     - TYPO3 documentation starter
     - Your Name
     - manual
@@ -34,7 +34,10 @@ conf.py:
     - http://docs.typo3.org/typo3cms/TyposcriptReference/
     - null
   extensions:
+  - sphinx.ext.extlinks
+  - sphinx.ext.ifconfig
   - sphinx.ext.intersphinx
+  - sphinx.ext.todo
   - t3sphinx.ext.t3extras
   - t3sphinx.ext.t3tablerows
   - t3sphinx.ext.targets
