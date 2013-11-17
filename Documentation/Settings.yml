@@ -3,31 +3,43 @@
 
 ---
 conf.py:
-  ##====================================================================
-  ## Define configuration data that belongs to your individual
-  ## documentation project here in this ./Settings.yml file.
-  ## Use "parameter: value" pairs as you would do within the conf.py
-  ## file. Values given here in ./Settings.yml under the key 'conf.py'
-  ## will overlay or supplement those given in conf.py. You therefore 
-  ## don't have to have access to conf.py which you don't have on the
-  ## server.
-  ##
-  ## Watch the log folder ./_not_versioned/ to see what settings have
-  ## been used when the project has last been rendered. This may give
-  ## you an idea of what's possible and what's needed and how to write 
-  ## it.
-  ##
-  ## Have fun!
-  ##--------------------------------------------------------------------
+
+  # ====================================================================
+  # This is the project specific Settings.yml file.
+  # Place Sphinx specific build information here.
+  # Settings given here will replace the settings of 'conf.py'.
+  # --------------------------------------------------------------------
 
   # include content of ".. todo::" directives in output?
   todo_include_todos: True
 
   # Sphinx likes to see meaningful values for copyright, project,
   # version and release in several places
-  copyright: 2013 to now
+  copyright: 2013
   project: TYPO3 documentation starter
   version: 0.0
   release: 0.0.0
-
+  latex_documents:
+  - - Index
+    - manual.tex
+    - TYPO3 documentation starter
+    - Author's Name
+    - manual
+  latex_elements:
+    papersize: a4paper
+    pointsize: 10pt
+    preamble: \usepackage{typo3}
+  intersphinx_mapping:
+    t3tsref:
+    - http://docs.typo3.org/typo3cms/TyposcriptReference/
+    - null
+  extensions:
+  - sphinx.ext.intersphinx
+  - t3sphinx.ext.t3extras
+  - t3sphinx.ext.t3tablerows
+  - t3sphinx.ext.targets
+  - sphinxcontrib.googlechart
+  - sphinxcontrib.googlemaps
+  - sphinxcontrib.slide
+  - sphinxcontrib.youtube
 ...
